@@ -1,0 +1,10 @@
+{
+  "name": "ganesh-power-platform-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "validate": "python3 scripts/check_site.py"
+  }
+}

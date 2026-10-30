@@ -1,0 +1,17 @@
+[
+  {
+    "siteKey": "it",
+    "listKey": "documents",
+    "itemCount": 105
+  },
+  {
+    "siteKey": "it",
+    "listKey": "tasks",
+    "itemCount": 42
+  },
+  {
+    "siteKey": "finance",
+    "listKey": "archive",
+    "itemCount": 9
+  }
+]
